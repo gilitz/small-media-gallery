@@ -9,3 +9,8 @@
 ### Add server side rendering to load first images before screen reloads
 
 ### Better loading image
+
+## Running:
+
+### in root folder: npm install && npm run start
+### in server folder: npm install && npm run start
