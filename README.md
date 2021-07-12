@@ -1,12 +1,11 @@
-# Assumptions:
-# List is infinite (not checking if no more images)
+## Assumptions:
+### List is infinite (not checking if no more images)
 
+## Improvements:
 
-# Improvements:
+### Folders hierarchy (separate client and server folders)
+### No tests
 
-# Folders hierarchy (separate client and server folders)
-# No tests
+### Add server side rendering to load first images before screen reloads
 
-# Add server side rendering to load first images before screen reloads
-
-# Better loading image
+### Better loading image
